@@ -1,1 +1,2 @@
-# myapp1sample
+# myapp1sample 
+# Sample application on Azure
